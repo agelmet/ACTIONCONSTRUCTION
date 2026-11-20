@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/action-construction-icon.svg"
+ },
+ "source_md5": "91e575f3b8610021286b3b33c04b8c45",
+ "version": "5ce89ee1",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "782b9f655c7b1d59d2cef5cb0a904271"
+ ],
+ "made": "2026-11-20"
+}
